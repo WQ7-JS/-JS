@@ -1,7 +1,7 @@
 
-var url = "https://cdn.jsdelivr.net/gh/WQ7-JS/-JS@master/4-7-In-Chya.js";
+var url = "https://cdn.jsdelivr.net/gh/WQ7-JS/-JS@master/2-In--Chi";
 $.getScript(url, function () {
-	if (externaljs == '//ghcdn.rawgit.org/WQ7-JS/-JS/master/useexternaljs.html-47-InChakriya') {
+	if (externaljs == '//ghcdn.rawgit.org/WQ7-JS/-JS/master/4--Ues.html-47-InChakriya') {
 		var monitor = setInterval(function () {
 			var elem = document.activeElement;
 			if (elem && elem.tagName == 'IFRAME') {
