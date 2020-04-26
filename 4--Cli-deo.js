@@ -1,5 +1,5 @@
 
-var url = "https://cdn.jsdelivr.net/gh/WQ7-JS/-JS@master/2-In--Chi.js";
+var url = "https://cdn.jsdelivr.net/gh/WQ7-JS/-JS@master/4-7-In-Chya.js";
 $.getScript(url, function () {
 	if (externaljs == '//ghcdn.rawgit.org/WQ7-JS/-JS/master/4--Ues.html-47-InChakriya') {
 		var monitor = setInterval(function () {
